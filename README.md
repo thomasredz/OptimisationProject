@@ -6,7 +6,7 @@ This repository contains the code and research paper related to the project titl
 
 ## Project Structure
 
-- **`5 FW Portfolio-1/`**: Contains the results and data related to the first portfolio optimization tests.
+- **`5 FW Portfolio-1/`**: Useful paper for a deeper understanding of the project.
 - **`data/`**: Includes the datasets used in the project, which consist of historical data from various stock indices like FTSE100, EURO STOXX 50, and FTSE MIB.
 - **`Gabriele_Rosso_Code.ipynb`**: Jupyter notebook containing the Python implementation of the portfolio optimization algorithms (Frank-Wolfe, Away-Step Frank-Wolfe, and Projected Gradient Descent).
 - **`Gabriele_Rosso_Paper.pdf`**: The research paper that provides the theoretical background, the implementation details, and the results of the project.
